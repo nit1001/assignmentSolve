@@ -1,0 +1,22 @@
+.blog{
+    color: brown;
+    background-color: yellow;
+}
+#select{
+    color: black;
+    padding: 5%;
+    text-align: start;
+}
+#select1{
+    color: white;
+    background-color: black;
+    padding: 5%;
+    text-align: start;
+}
+[type="text"]{
+    background-color: yellow;
+}
+#nitin{
+    border: 10px solid red;
+    background-image: url(image link);
+}
